@@ -25,7 +25,7 @@ SECRET_KEY = 'uk)+9qn25kzb8v8-@8jrer826i46c77p$r-w=@!+^i#0fqdpvy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*'] # to znaczy, ze dostep jest
 
 
 # Application definition
